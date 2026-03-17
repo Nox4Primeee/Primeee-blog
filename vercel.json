@@ -1,10 +1,12 @@
 {
+  "version": 2,
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "nextjs",
+  "outputDirectory": ".next",
   "regions": ["cdg1"],
   "env": {
-    "NEXT_PUBLIC_SERVER_URL": "https://dev-primeee-house.vercel.app"
+    "NEXT_PUBLIC_SERVER_URL": "https://primeee-dev.vercel.app"
   }
 }
