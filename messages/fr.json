@@ -13,14 +13,14 @@
     "description": "Serveurs privés, bots WhatsApp/Telegram, formations personnalisées"
   },
   "Blog": {
-    "title": "Blog Communautaire",
+    "title": "Primeee Blog",
     "readMore": "Lire la suite"
   },
   "Shop": {
-    "title": "Serveurs Privés",
-    "1gb": "1GB - 5€/mois",
-    "5gb": "5GB - 20€/mois",
-    "unlimited": "Illimité - 50€/mois",
-    "reseller": "Panel Reseller - 100€/mois"
+    "title": "Servers Privés",
+    "1gb": "5GB - 1$/500fcfa",
+    "5gb": "10GB - 3$/1000fcfa",
+    "unlimited": "Illimité - 5$/1.500fcfa",
+    "reseller": "Panel Admin/Reseller - 8$/20000fcfa"
   }
 }
