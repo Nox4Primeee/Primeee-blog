@@ -1,0 +1,26 @@
+{
+  "Navbar": {
+    "home": "Accueil",
+    "blog": "Blog",
+    "shop": "Boutique",
+    "bots": "Bots",
+    "training": "Formation",
+    "admin": "Admin"
+  },
+  "Home": {
+    "title": "DEV PRIMEEE HOUSE",
+    "subtitle": "La communauté des développeurs d'élite",
+    "description": "Serveurs privés, bots WhatsApp/Telegram, formations personnalisées"
+  },
+  "Blog": {
+    "title": "Blog Communautaire",
+    "readMore": "Lire la suite"
+  },
+  "Shop": {
+    "title": "Serveurs Privés",
+    "1gb": "1GB - 5€/mois",
+    "5gb": "5GB - 20€/mois",
+    "unlimited": "Illimité - 50€/mois",
+    "reseller": "Panel Reseller - 100€/mois"
+  }
+}
