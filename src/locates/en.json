@@ -1,0 +1,41 @@
+{
+  "navigation": {
+    "home": "Home",
+    "blog": "Blog",
+    "products": "Products",
+    "services": "Services",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "DEV PRIMEEE HOUSE",
+      "subtitle": "The developer community",
+      "cta": "Discover our services"
+    },
+    "features": {
+      "title": "What we offer",
+      "servers": "Private Servers",
+      "panels": "Admin Panels & Reseller",
+      "bots": "WhatsApp/Telegram Bots",
+      "training": "Custom training"
+    }
+  },
+  "blog": {
+    "title": "Community Blog",
+    "readMore": "Read more",
+    "by": "By",
+    "publishedOn": "Published on"
+  },
+  "products": {
+    "servers": "Private Servers",
+    "from": "From",
+    "buy": "Buy now",
+    "features": "Features"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFound": "Page not found"
+  }
+}
