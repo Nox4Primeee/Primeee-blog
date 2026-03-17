@@ -1,0 +1,26 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "blog": "Blog",
+    "shop": "Shop",
+    "bots": "Bots",
+    "training": "Training",
+    "admin": "Admin"
+  },
+  "Home": {
+    "title": "DEV PRIMEEE HOUSE",
+    "subtitle": "PRIMEEE Devs Comunity",
+    "description": "Ptec Private Server, bots WhatsApp/Telegram, formations personnalisées"
+  },
+  "Blog": {
+    "title": "Primeee Blog",
+    "readMore": "ReadMore"
+  },
+  "Shop": {
+    "title": "Private Ptec Servers",
+    "1gb": "5GB - 1$/500fcfa",
+    "5gb": "10GB - 3$/1000fcfa",
+    "unlimited": "Unlumited - 5$/1.500fcfa",
+    "reseller": "Panel Admin/Reseller - 8$/20000fcfa"
+  }
+}
